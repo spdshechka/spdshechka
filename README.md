@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**spdshechka/spdshechka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/banner.gif" width="100%" alt="profile banner" />
 
-Here are some ideas to get you started:
+# spdshka
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### developer / i use arch btw / builder of things
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=7AF0B5&center=true&vCenter=true&width=650&lines=Python+%2F+Web+%2F+Linux;Arch+%2B+Hyprland+daily+driver;Building+beautiful+tools+I+actually+use;Making+Linux+feel+like+a+product" alt="Typing SVG" />
+</p>
+
+</div>
+
+---
+
+## about
+
+```txt
+developer focused on clean software, useful tools, and beautiful Linux workflows.
+
+i build web apps, python backends, desktop utilities, automation tools,
+and custom Arch/Hyprland rice components.
