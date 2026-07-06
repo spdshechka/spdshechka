@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.gif" width="100%" alt="profile banner" />
+<img src="./PGYmnMoU773fuuKYL.gif" width="100%" alt="profile banner" />
 
 # spdshka
 
